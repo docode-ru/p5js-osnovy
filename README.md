@@ -1,7 +1,9 @@
 
 ## Помоги проекту
 [YA 41001933780050](https://money.yandex.ru/to/41001933780050)
+
 [Skies.land/user/53](https://skies.land/user/53)
+
 [Patreon.com/docode](https://www.patreon.com/docode)
 
 ## Установка
