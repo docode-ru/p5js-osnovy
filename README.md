@@ -1,6 +1,8 @@
 
 ## Помоги проекту
-[>>> Поддержать проект <<<](https://money.yandex.ru/to/41001933780050)
+[YA 41001933780050](https://money.yandex.ru/to/41001933780050)
+[Skies.land/user/53](https://skies.land/user/53)
+[Patreon.com/docode](https://www.patreon.com/docode)
 
 ## Установка
 Установите [NodeJS](https://nodejs.org/en/)
@@ -17,7 +19,7 @@ npm install
 Откройте командную строку и перейдите в папку с проектом.
 Вместо `../..` укажите путь к проекту на диске.
 ```bash
-cd ../../p5js-docode-games
+cd ../../p5js-osnovy
 ```
 В папке с проектом запустите  `gulp`:
 ```bash
