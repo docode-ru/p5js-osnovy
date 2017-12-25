@@ -7,7 +7,8 @@
 [Patreon.com/docode](https://www.patreon.com/docode)
 
 
-
+##### [Все уроки смотрите видео-уроки на youtube канале DoCode](https://www.youtube.com/playlist?list=PLNtbY2SklByy-ZNn5q1AWnh0-D2H6h0WF)
+  
 ## Запуск проекта
 ### В браузере
 Перейдите в папку `public` и откройте файл `index.html` в любом браузере установленном на вашем компьютере.
